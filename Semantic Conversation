@@ -1,0 +1,37 @@
+<!DOCTYPE.html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device -width, initial -scale=1.0">
+  <title>Semantic Conversation -Dennis Mungai</title>
+</head>
+<body>
+  <header>
+    <a href=" index.html">My Site</a>
+    <nav aria -label="Main">
+   <UL>
+     <li><a href="index.html">Home</a></li>
+     <li><a href="about.html">About</a></li>
+     <li><a href="contact.html">Contact</a></li>
+     </UL>
+    </nav>
+  </header>
+  <main>
+    <article>
+      <h1>Welcome to my Site</h1>
+      <p>This is my first paragraph </p>
+      <p>This is my second paragraph </p>
+    </article>
+    <aside>
+      <h2>Recent posts</h2>
+      <UL>
+        <li><a href="#">Why I stopped using div for everything</a></li>
+        <li><a href="#">My first light house audit</a></li>
+      </UL>
+    </aside>
+    </main>
+  <Footer>
+    <p><small>© 2026 Dennis Mungai</small></p>
+  </Footer>
+</body>
+  </html>
